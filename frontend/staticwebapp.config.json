@@ -37,7 +37,7 @@
       "allowedForwardedHosts": [
         "2408080030008236fd-gsc5cwb5b4bgckfz.b02.azurefd.net"
       ]
-    }
+    },
     "globalHeaders": {
         "Cache-Control": "no-cache"
     }
