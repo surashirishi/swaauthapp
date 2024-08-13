@@ -7,10 +7,6 @@
         {
             "route": "/authenticated/*",
             "allowedRoles": [ "authenticated" ]
-        },
-        {
-            "route": "/",
-            "redirect": "/index2.html"
         }
     ],
     "auth": {
